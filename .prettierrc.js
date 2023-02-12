@@ -1,1 +1,1 @@
-module.exports = 'prettier-config-standard'
+module.exports = 'eslint-config-standard-typescript-prettier/prettier'
