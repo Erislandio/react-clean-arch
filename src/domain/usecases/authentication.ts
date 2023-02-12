@@ -8,3 +8,9 @@ type AuthenticationParams = {
 export interface Authentication {
   auth(params: AuthenticationParams): Promise<AccountModel>
 }
+
+export class a {
+  test (): string {
+    return ''
+  }
+}
