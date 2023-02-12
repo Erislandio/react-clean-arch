@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Erislandio/react-clean-arch/issues"
   },
-  "homepage": "https://github.com/Erislandio/react-clean-arch#readme"
+  "homepage": "https://github.com/Erislandio/react-clean-arch#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.6.0"
+  }
 }
